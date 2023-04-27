@@ -1,0 +1,14 @@
+{
+    "name": "test",
+    "value": 123,
+    "subcomponents": [
+      {
+        "name": "subcomponent1",
+        "value": 456
+      },
+      {
+        "name": "subcomponent2",
+        "value": 789
+      }
+    ]
+  }
